@@ -1,0 +1,6 @@
+#ignore configure files of MacOS
+
+*.DS_Store
+
+#ignore build source
+common/*
